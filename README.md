@@ -1,6 +1,6 @@
-## Gustavo Engels 👨🏻‍💻
+## Oie sou o Gustavo Fuck Engels 👨🏻‍💻
 
-Me chamo Gustavo Fuck Engels, tenho 20 anos, sou natural de Santa Catarina e atualmente curso o ensino superior em Análise e Desenvolvimento de Sistemas (ADS) pela instituição SENAI, onde estou no 3º semestre.
+Tenho 20 anos, sou natural de Santa Catarina e atualmente curso o ensino superior em Análise e Desenvolvimento de Sistemas (ADS) pela instituição SENAI, onde estou no 3º semestre.
 
 Desde cedo sempre tive grande interesse pela área da informática e tecnologia, o que me motivou a escolher essa graduação. Ao longo do curso, venho adquirindo conhecimentos teóricos e práticos relacionados ao desenvolvimento de sistemas, lógica de programação, estrutura de dados, bancos de dados e desenvolvimento web, buscando constantemente aprimorar minhas habilidades técnicas.
 

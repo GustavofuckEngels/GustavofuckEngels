@@ -1,16 +1,22 @@
-## Hi there 👋
+## Gustavo Engels 👨🏻‍💻
 
-<!--
-**GustavofuckEngels/GustavofuckEngels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Gustavo Fuck Engels, tenho 20 anos, sou natural de Santa Catarina e atualmente curso o ensino superior em Análise e Desenvolvimento de Sistemas (ADS) pela instituição SENAI, onde estou no 3º semestre.
 
-Here are some ideas to get you started:
+Desde cedo sempre tive grande interesse pela área da informática e tecnologia, o que me motivou a escolher essa graduação. Ao longo do curso, venho adquirindo conhecimentos teóricos e práticos relacionados ao desenvolvimento de sistemas, lógica de programação, estrutura de dados, bancos de dados e desenvolvimento web, buscando constantemente aprimorar minhas habilidades técnicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou em busca do meu primeiro emprego ou estágio na área de tecnologia, com o objetivo de aplicar na prática os conhecimentos adquiridos na graduação, ganhar experiência profissional e crescer junto com a empresa, contribuindo com soluções eficientes e inovadoras.
+
+---
+### Linguagens e Tecnologias 🤖
+<p align="left">
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</p>
+<br/>
+
+### Estatísticas 📊
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavofuckengels&theme=tokyonight&include_all_commits=true&locale=pt-br)

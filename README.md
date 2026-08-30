@@ -45,7 +45,7 @@ Olá! Eu sou o **Gustavo Engels**, tenho 20 anos e sou estudante de **Análise e
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:gengels20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
@@ -58,3 +58,11 @@ Olá! Eu sou o **Gustavo Engels**, tenho 20 anos e sou estudante de **Análise e
 ---
 
 <div align="center">
+
+### 💡 "Sempre aprendendo, sempre evoluindo."
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
+
+

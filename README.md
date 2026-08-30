@@ -1,21 +1,41 @@
-## Oie sou o Gustavo Fuck Engels 👨🏻‍💻
+# 👨‍💻 Gustavo Engels
 
-Tenho 20 anos, sou natural de Santa Catarina e atualmente curso o ensino superior em Análise e Desenvolvimento de Sistemas (ADS) pela instituição SENAI, onde estou no 3º semestre.
+### Desenvolvedor em formação | Análise e Desenvolvimento de Sistemas
 
-Desde cedo sempre tive grande interesse pela área da informática e tecnologia, o que me motivou a escolher essa graduação. Ao longo do curso, venho adquirindo conhecimentos teóricos e práticos relacionados ao desenvolvimento de sistemas, lógica de programação, estrutura de dados, bancos de dados e desenvolvimento web, buscando constantemente aprimorar minhas habilidades técnicas.
+Olá! Eu sou o **Gustavo Engels**, tenho 20 anos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** pelo **SENAI**.
 
-Atualmente, estou em busca do meu primeiro emprego ou estágio na área de tecnologia, com o objetivo de aplicar na prática os conhecimentos adquiridos na graduação, ganhar experiência profissional e crescer junto com a empresa, contribuindo com soluções eficientes e inovadoras.
+💻 Tenho interesse em desenvolvimento de software e venho construindo minha experiência através de projetos acadêmicos e pessoais.
+
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💻 Focado em Desenvolvimento Web
+- 🗄️ Experiência com **MySQL** e **php**
+- 🔧 Desenvolvendo projetos para aprimorar minhas habilidades
+- 🎯 Buscando minha primeira oportunidade na área de tecnologia
 
 ---
-### Linguagens e Tecnologias 🤖
-<p align="left">
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+## 🛠️ Tecnologias e ferramentas
+
+### 💻 Desenvolvimento
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,express,vue" />
 </p>
-<br/>
+
+### 🗄️ Banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
 
 ### Onde me encontrar 📫
 
